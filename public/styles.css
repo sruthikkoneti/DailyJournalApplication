@@ -1,0 +1,57 @@
+/* footer{
+    
+    
+    margin-top: 4rem;
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    
+} */
+.bottom{
+    position: absolute;
+	text-align: center;
+	bottom: 0;
+}
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(10, 9, 9);
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+.custom-body{
+    color: white;
+    height: 100vh;
+    background-image: linear-gradient(to right,rgb(2, 2, 2),rgb(13, 11, 11),rgb(13, 11, 11),rgb(2,2,2));
+    padding: 1.5rem 7rem 1.5rem 7rem;
+    
+}
+.custom-nav{
+    /* position: sticky; */
+    background-color: rgb(10, 3, 3);
+   
+    padding: 0rem 7rem 0rem 7rem;
+    font-size: larger;
+}
+.title{
+    padding-left: 7rem;
+}
+.custom-nav ul li a:hover{
+ text-decoration: underline;
+ color: aquamarine;
+}
+
+.custom-form{
+    background-color: rgb(105, 101, 101);
+}
+.link{
+    text-decoration: none;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+
